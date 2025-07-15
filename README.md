@@ -55,6 +55,7 @@ Based on the distance:
 🟢 If > 40 cm → Green LED ON, no buzzer.
 _______________________________________________________________________________
 Project Applications:
+
 Smart parking sensors
 
 Object detection for robots
