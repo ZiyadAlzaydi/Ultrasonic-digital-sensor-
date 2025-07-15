@@ -27,8 +27,11 @@ Echo	D5
 _____________________________________________________________________________
  LEDs:
 Color	Arduino Pin	Notes
+
 Green	D10	Far = Green ON
+
 Yellow	D9	Medium = Yellow ON
+
 Red	D8	Close = Red ON
 
 Each LED connects through a 220Ω resistor to ground.
